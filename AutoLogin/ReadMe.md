@@ -1,5 +1,3 @@
-Note: If you find the lines lenghty then just enable word wrap in your text editor.
-
 Pre-requisite:
 
 1. You must have python in your computer
